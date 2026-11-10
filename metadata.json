@@ -1,0 +1,6 @@
+{
+  "name": "AuraStream",
+  "description": "Cloud music vault & offline video streaming platform with encrypted storage, personalized recommendations, and smart media library.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
